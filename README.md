@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=Jeong%20ChangSeong&fontSize=80&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
-<h1 align="center">Tech ✨</h1>
+<h3 align="center">Tech ✨</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
