@@ -2,6 +2,7 @@
 
 <h3 align="center">Tech ✨</h3>
 <p align="center">
+<img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 </br>
